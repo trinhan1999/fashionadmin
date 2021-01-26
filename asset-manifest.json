@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trinhan1999/fashionadmin/static/css/main.d53554e2.chunk.css",
+    "main.js": "/trinhan1999/fashionadmin/static/js/main.6ded0752.chunk.js",
+    "main.js.map": "/trinhan1999/fashionadmin/static/js/main.6ded0752.chunk.js.map",
+    "runtime-main.js": "/trinhan1999/fashionadmin/static/js/runtime-main.42951092.js",
+    "runtime-main.js.map": "/trinhan1999/fashionadmin/static/js/runtime-main.42951092.js.map",
+    "static/css/2.408975eb.chunk.css": "/trinhan1999/fashionadmin/static/css/2.408975eb.chunk.css",
+    "static/js/2.9811c5ad.chunk.js": "/trinhan1999/fashionadmin/static/js/2.9811c5ad.chunk.js",
+    "static/js/2.9811c5ad.chunk.js.map": "/trinhan1999/fashionadmin/static/js/2.9811c5ad.chunk.js.map",
+    "index.html": "/trinhan1999/fashionadmin/index.html",
+    "static/css/2.408975eb.chunk.css.map": "/trinhan1999/fashionadmin/static/css/2.408975eb.chunk.css.map",
+    "static/css/main.d53554e2.chunk.css.map": "/trinhan1999/fashionadmin/static/css/main.d53554e2.chunk.css.map",
+    "static/js/2.9811c5ad.chunk.js.LICENSE.txt": "/trinhan1999/fashionadmin/static/js/2.9811c5ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42951092.js",
+    "static/css/2.408975eb.chunk.css",
+    "static/js/2.9811c5ad.chunk.js",
+    "static/css/main.d53554e2.chunk.css",
+    "static/js/main.6ded0752.chunk.js"
+  ]
+}
